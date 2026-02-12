@@ -177,4 +177,4 @@ python eventbot.py
 <p align="center">
   <sub>Сделано с ❤️ для Лицея</sub>
 </p>
-```
+
